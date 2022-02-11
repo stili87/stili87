@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stili87.
+- 👋 Hi, I’m Andrew Stilinovic
 - 👀 I’m interested in changing careers from being a lawyer to web development. 
 - 🌱 I’m currently learning by attending the App Academy boot camp.
 - 💞️ I’m looking to collaborate on anything to further my abilities. 
