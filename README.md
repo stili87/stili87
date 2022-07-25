@@ -1,5 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew.stilinovic@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-stilinovic/)
 
+<a href='https://docs.google.com/document/d/15ZSKBHoHHSJFMA9zyLf--JW2UriuU_UpFkj7u7u-qAw/edit?usp=sharing'>My Resume</a>
+
 ## About Me
 It started in, 2002 when I wrote my first HTML website in Microsoft Notepad. Ever since then I have always enjoyed writing code and working on applications. My life's journey did not lead me directly into software engineering but I am happy to finally arrive at this profession. I am a former attorney who has decided to make a career change into software engineering. I am incredibly excited to enter the world of tech and learn as much as I can about being a developer. I have a passion for working on new technologies and expanding my knowledge base as I begin this new expedition.
 
